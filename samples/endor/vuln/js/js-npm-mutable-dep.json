@@ -1,0 +1,77 @@
+{
+    "name": "maybemaliciouspackage",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    // This part covers dependencies as they appear in package-lock.json and npm-shrinkwrap.json
+    "dependencies": {
+        "@types/acorn": {
+            "version": "4.0.3",
+            // okruleid: js-npm-mutable-dep
+            "resolved": "https://registry.npmjs.org/@types/acorn/-/acorn-4.0.3.tgz",
+            // okruleid: js-npm-mutable-dep
+            "integrity": "sha512-gou/kWQkGPMZjdCKNZGDpqxLm9+ErG/pFZKPX4tvCjr0Xf4FCYYX3nAsu7aDVKJV3KUe27+mvqqyWT/9VZoM/A==",
+            "dev": true,
+            "requires": {
+                "@types/estree": "0.0.38"
+            }
+        }
+    },
+    // This part covers dependencies as they appear in package.json
+    "dependencies": {
+        // okruleid: js-npm-mutable-dep
+        "@emotion/react": "^11.7.0",
+        // ruleid: js-npm-mutable-dep
+        "@emotion/foo": "git+ssh://git@github.com:npm/cli#semver:^5.0",
+        "@emotion/styled": "^11.6.0",
+        // okruleid: js-npm-mutable-dep
+        "@fortawesome/free-solid-svg-icons": "5.15.4",
+        "@fortawesome/react-fontawesome"     : "0.1.16",
+        // ruleid: js-npm-mutable-dep
+"asd": "http://asdf.com/asdf.tar.gz"
+    },
+    "devDependencies": {
+        // okruleid: js-npm-mutable-dep
+        "@testing-library/jest-dom": "5.16.1",
+        "@testing-library/react": "12.1.2",
+        // ruleid: js-npm-mutable-dep
+        "asd": "https://asdf.com/foo/bar.tar.gz",
+        "@testing-library/user-event": "13.5.0",
+        // okruleid: js-npm-mutable-dep
+        "eslint": "^8.26.0",
+        // ruleid: js-npm-mutable-dep
+        "@emotion/foo": "git://github.com/npm/cli.git#v1.0.27",
+        // okruleid: js-npm-mutable-dep
+        "@emotion/bar": "git://github.com/npm/cli.git#4727d357ea",
+        "eslint-config-airbnb": "^19.0.4",
+        "eslint-config-prettier": "^8.5.0",
+        // ruleid: js-npm-mutable-dep
+        "cli": "git+https://isaacs@github.com/npm/cli.git",
+        // ruleid: js-npm-mutable-dep
+        "express": "expressjs/express",
+        // okruleid: js-npm-mutable-dep
+        "mocha"        : "mochajs/mocha#4727D357EA",
+        // ruleid: js-npm-mutable-dep
+        "module":        "user/re-po#feature\/branch",
+        // ruleid: js-npm-mutable-dep
+        "module":"us_er/r3_po#feature\/branch"
+    },
+    "optionalDependencies": {
+        // okruleid: js-npm-mutable-dep
+        "@testing-library/jest-dom": "5.16.1",
+        "@testing-library/react": "12.1.2",
+        // ruleid: js-npm-mutable-dep
+        "asd": "https://asdf.com/foo/bar.tar.gz",
+        "@testing-library/user-event": "13.5.0"
+    },
+    "peerDependencies": {
+        // ruleid: js-npm-mutable-dep
+        "cli": "git+https://isaacs@github.com/npm/cli.git",
+        // ruleid: js-npm-mutable-dep
+        "express": "expressjs/express",
+        // okruleid: js-npm-mutable-dep
+        "mocha"        : "mochajs/mocha#4727D357EA"
+  },
+    "author": "",
+    "license": "ISC"
+}

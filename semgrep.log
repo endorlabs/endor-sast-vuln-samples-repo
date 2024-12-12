@@ -1,0 +1,1917 @@
+2024-11-22 12:26:36,174 - semgrep.run_scan - DEBUG - semgrep version 1.96.0
+2024-11-22 12:26:36,193 - semgrep.config_resolver - DEBUG - Loading local config from /tmp/semgrep_rules
+2024-11-22 12:26:36,211 - semgrep.config_resolver - DEBUG - Done loading local config from /tmp/semgrep_rules
+2024-11-22 12:26:36,212 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ygjzkqh9.rules
+2024-11-22 12:26:36,316 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:36,316 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:36,316 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:36,317 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-3r7057z6.rules
+2024-11-22 12:26:36,409 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:36,409 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:36,409 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:36,410 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-yo8iefar.rules
+2024-11-22 12:26:36,500 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:36,500 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:36,501 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:36,501 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-fgjvgzn1.rules
+2024-11-22 12:26:36,588 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:36,588 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:36,588 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:36,589 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xfadhcww.rules
+2024-11-22 12:26:36,679 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:36,679 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:36,679 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:36,680 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-1ih5_igw.rules
+2024-11-22 12:26:36,772 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:36,773 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:36,773 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:36,773 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-x9tzm8yk.rules
+2024-11-22 12:26:36,874 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:36,874 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:36,874 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:36,874 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-s9cx2zre.rules
+2024-11-22 12:26:36,971 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:36,972 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:36,972 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:36,972 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jfsrjwis.rules
+2024-11-22 12:26:37,065 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,066 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,066 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,066 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-v83gz_wt.rules
+2024-11-22 12:26:37,164 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,164 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,164 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,165 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4c702wko.rules
+2024-11-22 12:26:37,253 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,254 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,254 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,254 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-f15g5jmi.rules
+2024-11-22 12:26:37,343 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,343 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,343 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,344 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9a325ne_.rules
+2024-11-22 12:26:37,457 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,458 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,458 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,458 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-mm2g0oz8.rules
+2024-11-22 12:26:37,555 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,555 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,555 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,555 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xo_dtkbr.rules
+2024-11-22 12:26:37,648 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,649 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,649 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,649 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6euwxmd5.rules
+2024-11-22 12:26:37,736 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,736 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,736 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,737 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-v3hhmq8o.rules
+2024-11-22 12:26:37,822 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,822 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,822 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,822 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-30ej5n_9.rules
+2024-11-22 12:26:37,917 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:37,918 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:37,918 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:37,918 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-lyryf7y2.rules
+2024-11-22 12:26:38,012 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,012 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,012 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,013 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ecx7vnhp.rules
+2024-11-22 12:26:38,109 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,109 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,109 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,110 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-bxhm9tfp.rules
+2024-11-22 12:26:38,202 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,203 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,203 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,203 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gmglsrpt.rules
+2024-11-22 12:26:38,294 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,294 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,294 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,295 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xo44u6yt.rules
+2024-11-22 12:26:38,386 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,387 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,387 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,387 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-v80ysgny.rules
+2024-11-22 12:26:38,471 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,471 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,471 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,472 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-_5kaxvnb.rules
+2024-11-22 12:26:38,563 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,563 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,563 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,564 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-n4lyc05d.rules
+2024-11-22 12:26:38,651 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,651 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,651 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,652 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9rouyxqw.rules
+2024-11-22 12:26:38,741 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,741 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,741 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,741 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-yzykp_8g.rules
+2024-11-22 12:26:38,831 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,831 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,831 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,832 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-l3yu_pxa.rules
+2024-11-22 12:26:38,920 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:38,920 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:38,920 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:38,921 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dm7phprs.rules
+2024-11-22 12:26:39,008 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,008 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,008 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,009 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xlo0rw2j.rules
+2024-11-22 12:26:39,099 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,099 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,099 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,100 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-78wsynzg.rules
+2024-11-22 12:26:39,185 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,186 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,186 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,186 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-fbqf5a8v.rules
+2024-11-22 12:26:39,282 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,283 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,283 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,283 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-qm_o93s7.rules
+2024-11-22 12:26:39,372 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,372 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,372 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,372 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ahgvq2yg.rules
+2024-11-22 12:26:39,466 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,466 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,466 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,466 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4193wire.rules
+2024-11-22 12:26:39,562 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,562 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,562 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,562 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-no4qa3ye.rules
+2024-11-22 12:26:39,653 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,653 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,653 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,653 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-e6j8gol8.rules
+2024-11-22 12:26:39,740 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,740 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,740 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,740 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-14uk12zt.rules
+2024-11-22 12:26:39,826 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,826 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,826 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,827 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-2sflj_u0.rules
+2024-11-22 12:26:39,915 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:39,915 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:39,915 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:39,915 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ajrnsqq4.rules
+2024-11-22 12:26:40,003 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,004 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,004 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,004 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-_qo0_9k2.rules
+2024-11-22 12:26:40,092 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,092 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,092 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,093 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-hg5q9lho.rules
+2024-11-22 12:26:40,186 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,186 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,186 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,186 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-55j3bxkp.rules
+2024-11-22 12:26:40,277 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,277 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,277 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,277 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-625q9g3h.rules
+2024-11-22 12:26:40,368 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,368 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,368 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,368 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-yzrmcsr2.rules
+2024-11-22 12:26:40,455 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,456 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,456 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,456 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dsfen803.rules
+2024-11-22 12:26:40,543 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,543 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,543 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,543 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-fzimx04g.rules
+2024-11-22 12:26:40,641 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,641 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,641 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,642 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-k7gemear.rules
+2024-11-22 12:26:40,728 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,728 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,728 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,729 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-phr5j5e4.rules
+2024-11-22 12:26:40,823 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,823 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,823 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,823 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-80qa5rgb.rules
+2024-11-22 12:26:40,914 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:40,914 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:40,915 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:40,915 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0apns7qd.rules
+2024-11-22 12:26:41,005 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,006 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,006 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,006 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7_oudsvl.rules
+2024-11-22 12:26:41,100 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,100 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,100 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,100 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rlqvlcb1.rules
+2024-11-22 12:26:41,192 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,193 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,193 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,193 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-j3rpsg1t.rules
+2024-11-22 12:26:41,311 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,311 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,311 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,312 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-z9g10rte.rules
+2024-11-22 12:26:41,410 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,410 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,410 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,411 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-m7vk75na.rules
+2024-11-22 12:26:41,500 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,500 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,500 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,500 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jdpuzyqk.rules
+2024-11-22 12:26:41,592 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,592 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,592 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,592 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7xwgwsn8.rules
+2024-11-22 12:26:41,681 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,681 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,681 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,681 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-1r7vj2fz.rules
+2024-11-22 12:26:41,768 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,769 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,769 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,769 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-p4_8g6ug.rules
+2024-11-22 12:26:41,858 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,858 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,858 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,858 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-cma09prl.rules
+2024-11-22 12:26:41,947 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:41,947 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:41,947 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:41,947 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ulyigwew.rules
+2024-11-22 12:26:42,036 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,037 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,037 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,037 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-kkxcb5n2.rules
+2024-11-22 12:26:42,130 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,130 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,130 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,130 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-unufz980.rules
+2024-11-22 12:26:42,217 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,218 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,218 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,218 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-a8mcwn4w.rules
+2024-11-22 12:26:42,314 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,314 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,314 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,314 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-p1d83vlp.rules
+2024-11-22 12:26:42,403 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,404 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,404 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,404 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-oakrkig5.rules
+2024-11-22 12:26:42,499 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,499 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,499 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,499 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0m3wmacp.rules
+2024-11-22 12:26:42,591 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,591 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,591 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,592 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-y_ir9jde.rules
+2024-11-22 12:26:42,682 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,682 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,682 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,683 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-74g3pgof.rules
+2024-11-22 12:26:42,769 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,770 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,770 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,770 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-flk9hyjx.rules
+2024-11-22 12:26:42,862 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,862 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,862 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,863 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0s_i35oe.rules
+2024-11-22 12:26:42,955 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:42,955 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:42,955 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:42,956 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-fl7fy6gg.rules
+2024-11-22 12:26:43,047 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,047 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,047 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,048 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dsnelzgh.rules
+2024-11-22 12:26:43,140 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,140 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,140 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,140 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-z2gzqxn2.rules
+2024-11-22 12:26:43,231 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,232 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,232 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,232 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-58qwbke3.rules
+2024-11-22 12:26:43,322 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,322 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,322 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,322 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-v_6bzl45.rules
+2024-11-22 12:26:43,419 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,419 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,419 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,420 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ttbiz04_.rules
+2024-11-22 12:26:43,512 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,512 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,512 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,512 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-kq1cqts8.rules
+2024-11-22 12:26:43,618 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,618 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,618 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,619 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ugfguogc.rules
+2024-11-22 12:26:43,709 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,709 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,709 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,710 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zur75nb2.rules
+2024-11-22 12:26:43,800 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,800 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,800 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,801 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-p28f74ic.rules
+2024-11-22 12:26:43,891 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,892 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,892 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,892 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-aoh503bl.rules
+2024-11-22 12:26:43,980 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:43,980 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:43,980 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:43,980 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-cak7_g10.rules
+2024-11-22 12:26:44,071 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,071 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,071 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,072 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dame6wbz.rules
+2024-11-22 12:26:44,161 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,161 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,161 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,161 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jjszazzd.rules
+2024-11-22 12:26:44,254 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,254 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,254 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,254 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6j6frile.rules
+2024-11-22 12:26:44,341 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,342 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,342 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,342 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ul3yaanw.rules
+2024-11-22 12:26:44,435 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,436 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,436 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,436 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-miyxltxt.rules
+2024-11-22 12:26:44,527 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,528 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,528 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,528 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0zq92vbf.rules
+2024-11-22 12:26:44,625 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,625 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,625 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,625 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-q9b5tnns.rules
+2024-11-22 12:26:44,722 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,723 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,723 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,723 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9egrmovs.rules
+2024-11-22 12:26:44,813 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,813 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,813 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,813 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-hcvjnadq.rules
+2024-11-22 12:26:44,906 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,906 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,906 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,906 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gcji_303.rules
+2024-11-22 12:26:44,998 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:44,998 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:44,998 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:44,998 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zblfo3b2.rules
+2024-11-22 12:26:45,082 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,083 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,083 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,083 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ic25l5js.rules
+2024-11-22 12:26:45,171 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,171 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,171 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,172 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ef3eyyw8.rules
+2024-11-22 12:26:45,259 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,259 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,259 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,259 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ny39jsjq.rules
+2024-11-22 12:26:45,344 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,344 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,345 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,345 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-fh3c7qkr.rules
+2024-11-22 12:26:45,441 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,441 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,441 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,442 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-x52k5dt6.rules
+2024-11-22 12:26:45,530 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,530 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,531 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,531 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0pt6kurm.rules
+2024-11-22 12:26:45,615 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,615 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,615 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,616 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ptydp5bs.rules
+2024-11-22 12:26:45,713 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,713 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,713 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,714 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-nfwu00e4.rules
+2024-11-22 12:26:45,803 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,803 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,803 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,804 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7jh6_y6a.rules
+2024-11-22 12:26:45,895 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,896 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,896 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,896 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-p4dl6rkx.rules
+2024-11-22 12:26:45,987 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:45,987 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:45,988 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:45,988 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jos4m8hk.rules
+2024-11-22 12:26:46,078 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,078 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,078 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,078 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-eh_bo27x.rules
+2024-11-22 12:26:46,170 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,170 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,170 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,171 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xzm07oki.rules
+2024-11-22 12:26:46,258 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,259 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,259 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,259 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9k2xx_uj.rules
+2024-11-22 12:26:46,351 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,351 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,351 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,352 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-obi93wpn.rules
+2024-11-22 12:26:46,444 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,445 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,445 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,445 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0ofd6ytl.rules
+2024-11-22 12:26:46,531 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,531 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,531 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,532 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-znwmevod.rules
+2024-11-22 12:26:46,633 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,633 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,633 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,634 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6q0x6dcl.rules
+2024-11-22 12:26:46,754 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,754 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,754 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,754 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-5m8n5m2q.rules
+2024-11-22 12:26:46,847 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,847 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,847 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,848 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-opq0gshj.rules
+2024-11-22 12:26:46,947 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:46,947 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:46,948 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:46,948 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rqjcjoc9.rules
+2024-11-22 12:26:47,047 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,047 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,047 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,048 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0st58wba.rules
+2024-11-22 12:26:47,154 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,154 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,154 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,155 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8op_7qac.rules
+2024-11-22 12:26:47,247 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,248 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,248 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,248 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-br2fyhhc.rules
+2024-11-22 12:26:47,339 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,339 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,339 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,340 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-t7qnusj0.rules
+2024-11-22 12:26:47,435 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,435 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,435 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,436 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-3_a_420_.rules
+2024-11-22 12:26:47,528 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,528 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,528 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,529 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6u_ua0vl.rules
+2024-11-22 12:26:47,618 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,618 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,618 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,619 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-50wjcbi1.rules
+2024-11-22 12:26:47,709 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,709 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,709 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,709 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-nbvdqncj.rules
+2024-11-22 12:26:47,800 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,800 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,800 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,800 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ko56rxio.rules
+2024-11-22 12:26:47,893 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,894 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,894 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,894 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-mtdk0af5.rules
+2024-11-22 12:26:47,983 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:47,983 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:47,983 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:47,984 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0q_48ktc.rules
+2024-11-22 12:26:48,076 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,076 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,076 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,077 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jyl1orjs.rules
+2024-11-22 12:26:48,167 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,167 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,167 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,168 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-bf6zkisv.rules
+2024-11-22 12:26:48,258 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,258 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,258 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,259 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-27nq5vv5.rules
+2024-11-22 12:26:48,348 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,348 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,348 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,349 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-nt8amrkb.rules
+2024-11-22 12:26:48,436 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,436 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,436 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,436 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-afs1503_.rules
+2024-11-22 12:26:48,534 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,534 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,534 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,535 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7zkkbc3j.rules
+2024-11-22 12:26:48,624 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,624 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,624 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,625 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-h587p1s7.rules
+2024-11-22 12:26:48,712 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,712 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,712 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,712 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6xm7gu8w.rules
+2024-11-22 12:26:48,801 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,801 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,801 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,802 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4wc295zd.rules
+2024-11-22 12:26:48,891 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,891 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,891 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,892 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-12vyk95s.rules
+2024-11-22 12:26:48,980 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:48,980 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:48,980 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:48,981 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ndrdagxo.rules
+2024-11-22 12:26:49,073 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,073 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,073 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,073 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-uy5s_8et.rules
+2024-11-22 12:26:49,162 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,163 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,163 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,163 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-b1xf683c.rules
+2024-11-22 12:26:49,251 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,252 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,252 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,252 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gihvcnf7.rules
+2024-11-22 12:26:49,339 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,339 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,339 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,340 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rwjdsfp5.rules
+2024-11-22 12:26:49,426 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,426 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,426 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,427 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xvffh_n4.rules
+2024-11-22 12:26:49,518 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,518 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,518 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,519 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-2j9c6oe0.rules
+2024-11-22 12:26:49,605 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,605 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,605 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,606 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-aki91r9h.rules
+2024-11-22 12:26:49,692 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,693 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,693 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,693 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-3oaassn6.rules
+2024-11-22 12:26:49,782 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,782 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,783 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,783 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-beyz8qz2.rules
+2024-11-22 12:26:49,879 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,879 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,879 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,880 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-lkb2jn5o.rules
+2024-11-22 12:26:49,970 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:49,970 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:49,971 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:49,971 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-tbv6c44h.rules
+2024-11-22 12:26:50,069 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,069 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,069 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,069 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ik4eqdtr.rules
+2024-11-22 12:26:50,157 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,157 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,157 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,157 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-aggrx_pf.rules
+2024-11-22 12:26:50,249 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,249 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,249 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,250 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-tyhor239.rules
+2024-11-22 12:26:50,338 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,338 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,338 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,338 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ps6wwm4w.rules
+2024-11-22 12:26:50,428 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,428 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,428 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,429 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4lk_eyj2.rules
+2024-11-22 12:26:50,518 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,518 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,518 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,518 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-c6j8amxa.rules
+2024-11-22 12:26:50,602 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,602 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,602 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,602 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-shatnqsv.rules
+2024-11-22 12:26:50,693 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,693 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,693 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,694 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-f0vf6_r_.rules
+2024-11-22 12:26:50,780 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,780 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,780 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,780 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ftgw6uwt.rules
+2024-11-22 12:26:50,875 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,875 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,875 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,876 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-98ceklwh.rules
+2024-11-22 12:26:50,965 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:50,965 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:50,965 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:50,966 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xue8tkk5.rules
+2024-11-22 12:26:51,060 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,060 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,060 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,061 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-blp9x77h.rules
+2024-11-22 12:26:51,147 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,147 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,147 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,148 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0cbrzuu_.rules
+2024-11-22 12:26:51,268 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,269 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,269 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,269 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7jgyynhn.rules
+2024-11-22 12:26:51,357 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,357 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,357 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,357 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-75ndq67h.rules
+2024-11-22 12:26:51,464 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,464 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,464 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,464 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-tl26lkcg.rules
+2024-11-22 12:26:51,552 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,552 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,552 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,552 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-l9mr_8qi.rules
+2024-11-22 12:26:51,640 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,640 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,640 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,640 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xgh2ulsu.rules
+2024-11-22 12:26:51,730 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,730 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,730 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,731 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4ylsk6ur.rules
+2024-11-22 12:26:51,823 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,823 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,823 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,823 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9bz8cex6.rules
+2024-11-22 12:26:51,920 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:51,920 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:51,920 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:51,920 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-bipw4yxf.rules
+2024-11-22 12:26:52,012 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,013 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,013 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,013 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7qgsyop6.rules
+2024-11-22 12:26:52,107 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,107 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,107 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,108 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-grsk9aw3.rules
+2024-11-22 12:26:52,198 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,198 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,198 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,198 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-721hj7rz.rules
+2024-11-22 12:26:52,284 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,284 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,284 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,284 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8h9kjtg6.rules
+2024-11-22 12:26:52,372 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,372 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,372 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,372 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rx4dtgf0.rules
+2024-11-22 12:26:52,460 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,460 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,460 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,460 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-oni9q7rz.rules
+2024-11-22 12:26:52,553 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,554 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,554 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,554 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-odba4wwb.rules
+2024-11-22 12:26:52,642 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,642 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,642 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,642 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-mblr4f8c.rules
+2024-11-22 12:26:52,730 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,731 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,731 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,731 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-n461un7q.rules
+2024-11-22 12:26:52,822 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,822 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,822 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,823 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ut94sr8k.rules
+2024-11-22 12:26:52,913 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:52,913 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:52,913 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:52,913 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6_r9qmux.rules
+2024-11-22 12:26:53,008 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,008 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,008 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,008 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-qbdauc1v.rules
+2024-11-22 12:26:53,101 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,101 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,101 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,102 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-92isz2pi.rules
+2024-11-22 12:26:53,192 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,192 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,192 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,192 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-l3x2hvi1.rules
+2024-11-22 12:26:53,289 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,289 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,289 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,289 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-cs91bwqa.rules
+2024-11-22 12:26:53,380 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,380 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,380 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,381 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-pcqme2t2.rules
+2024-11-22 12:26:53,478 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,478 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,478 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,479 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-boq19jd9.rules
+2024-11-22 12:26:53,571 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,571 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,571 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,572 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jpfbrgir.rules
+2024-11-22 12:26:53,662 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,662 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,662 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,663 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-pe7i_zzl.rules
+2024-11-22 12:26:53,751 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,751 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,751 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,752 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-1uln_fcu.rules
+2024-11-22 12:26:53,849 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,849 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,849 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,849 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ziapv99q.rules
+2024-11-22 12:26:53,934 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:53,935 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:53,935 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:53,935 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-vj432csx.rules
+2024-11-22 12:26:54,022 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,022 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,022 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,023 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-c8h4ff2b.rules
+2024-11-22 12:26:54,117 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,117 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,117 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,117 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-hyglqfpy.rules
+2024-11-22 12:26:54,201 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,201 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,201 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,202 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-1ze8e91r.rules
+2024-11-22 12:26:54,303 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,303 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,303 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,304 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-56_g2ohq.rules
+2024-11-22 12:26:54,394 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,394 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,394 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,395 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ov4c9d9u.rules
+2024-11-22 12:26:54,483 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,483 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,483 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,483 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-sx8411dk.rules
+2024-11-22 12:26:54,574 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,574 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,574 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,575 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ob8a4ah1.rules
+2024-11-22 12:26:54,663 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,664 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,664 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,664 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-c2kk4n22.rules
+2024-11-22 12:26:54,751 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,751 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,751 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,752 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0sjb39v9.rules
+2024-11-22 12:26:54,848 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,849 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,849 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,849 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-m7q2wn70.rules
+2024-11-22 12:26:54,941 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:54,941 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:54,941 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:54,942 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jx3eskga.rules
+2024-11-22 12:26:55,035 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,035 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,035 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,036 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-aki097_s.rules
+2024-11-22 12:26:55,127 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,128 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,128 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,128 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-qz66i9qb.rules
+2024-11-22 12:26:55,218 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,218 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,218 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,219 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jcyc2s6s.rules
+2024-11-22 12:26:55,309 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,309 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,310 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,310 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9pnrtyuz.rules
+2024-11-22 12:26:55,402 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,402 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,402 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,403 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rjqpwy9y.rules
+2024-11-22 12:26:55,494 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,494 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,494 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,495 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dy6kk3u9.rules
+2024-11-22 12:26:55,585 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,585 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,585 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,585 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-o66i75nz.rules
+2024-11-22 12:26:55,681 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,681 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,681 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,681 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-23b14oos.rules
+2024-11-22 12:26:55,772 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,772 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,772 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,772 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-360o1xcp.rules
+2024-11-22 12:26:55,865 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,865 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,865 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,865 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-l5erm6fp.rules
+2024-11-22 12:26:55,957 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:55,957 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:55,957 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:55,957 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-r7kp2qav.rules
+2024-11-22 12:26:56,054 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,054 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,054 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,055 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9x8gchlj.rules
+2024-11-22 12:26:56,146 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,146 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,146 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,147 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-w2guzvr4.rules
+2024-11-22 12:26:56,235 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,235 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,235 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,235 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-m1wofr3n.rules
+2024-11-22 12:26:56,328 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,328 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,328 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,328 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xmewd7s9.rules
+2024-11-22 12:26:56,415 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,415 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,415 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,415 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-pwwrsjxk.rules
+2024-11-22 12:26:56,507 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,507 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,507 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,507 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-fg9m3vwq.rules
+2024-11-22 12:26:56,607 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,607 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,607 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,608 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-83uoxe4l.rules
+2024-11-22 12:26:56,714 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,715 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,715 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,715 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-n8ft6y1g.rules
+2024-11-22 12:26:56,804 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,804 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,804 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,805 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-sndbxpz1.rules
+2024-11-22 12:26:56,892 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,892 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,892 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,892 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7ou03d3a.rules
+2024-11-22 12:26:56,987 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:56,987 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:56,987 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:56,988 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6lcw__z8.rules
+2024-11-22 12:26:57,077 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,077 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,077 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,077 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-magvzwcc.rules
+2024-11-22 12:26:57,167 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,167 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,167 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,168 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-x5cvn6nw.rules
+2024-11-22 12:26:57,263 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,263 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,263 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,264 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6l1e16ps.rules
+2024-11-22 12:26:57,352 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,352 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,352 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,352 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-92seayxk.rules
+2024-11-22 12:26:57,444 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,445 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,445 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,445 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-tyrsp_uo.rules
+2024-11-22 12:26:57,535 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,535 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,535 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,535 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ela4h5_v.rules
+2024-11-22 12:26:57,624 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,624 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,624 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,625 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-2uarn6mr.rules
+2024-11-22 12:26:57,711 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,712 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,712 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,712 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-py84q6wn.rules
+2024-11-22 12:26:57,811 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,811 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,811 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,812 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dksu5yh7.rules
+2024-11-22 12:26:57,909 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:57,909 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:57,909 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:57,910 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ckclnc2z.rules
+2024-11-22 12:26:58,006 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,006 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,006 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,007 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-yjibj8f4.rules
+2024-11-22 12:26:58,107 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,107 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,107 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,108 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jz5e8303.rules
+2024-11-22 12:26:58,192 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,192 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,192 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,192 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8fcrilq8.rules
+2024-11-22 12:26:58,279 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,279 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,279 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,280 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-5ne2o3wg.rules
+2024-11-22 12:26:58,368 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,368 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,368 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,368 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-vtoy0rmr.rules
+2024-11-22 12:26:58,463 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,463 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,463 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,463 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-vnk7t4mb.rules
+2024-11-22 12:26:58,554 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,554 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,554 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,555 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-00dc_543.rules
+2024-11-22 12:26:58,639 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,639 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,639 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,640 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-g0t3r1qc.rules
+2024-11-22 12:26:58,726 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,727 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,727 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,727 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-97_ehvzy.rules
+2024-11-22 12:26:58,818 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,818 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,818 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,819 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ea484c3u.rules
+2024-11-22 12:26:58,902 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:58,902 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:58,902 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:58,903 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-mbz6mxrc.rules
+2024-11-22 12:26:59,005 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,005 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,005 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,005 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-hof4hgwv.rules
+2024-11-22 12:26:59,096 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,097 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,097 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,097 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-wj_eijaf.rules
+2024-11-22 12:26:59,186 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,187 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,187 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,187 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-vtn439hy.rules
+2024-11-22 12:26:59,280 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,280 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,280 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,281 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-wawa33k2.rules
+2024-11-22 12:26:59,366 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,366 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,366 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,366 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zhwbiab0.rules
+2024-11-22 12:26:59,454 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,454 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,454 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,455 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-muxxmctl.rules
+2024-11-22 12:26:59,543 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,544 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,544 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,544 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-2e5sunxb.rules
+2024-11-22 12:26:59,636 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,636 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,636 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,637 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zh9ryi69.rules
+2024-11-22 12:26:59,722 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,722 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,722 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,723 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dmvbcqwe.rules
+2024-11-22 12:26:59,819 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,819 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,819 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,820 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zwcuom7t.rules
+2024-11-22 12:26:59,919 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:26:59,919 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:26:59,919 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:26:59,920 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rkep86e1.rules
+2024-11-22 12:27:00,011 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,011 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,011 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,012 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4ndy6dcz.rules
+2024-11-22 12:27:00,105 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,105 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,105 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,106 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-wkh0vj3i.rules
+2024-11-22 12:27:00,203 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,203 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,203 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,204 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-02m58j0a.rules
+2024-11-22 12:27:00,305 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,306 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,306 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,306 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-moeurm39.rules
+2024-11-22 12:27:00,393 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,393 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,393 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,393 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-csz_1myd.rules
+2024-11-22 12:27:00,483 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,484 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,484 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,484 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-r29v86dv.rules
+2024-11-22 12:27:00,572 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,572 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,572 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,573 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-e6yxomke.rules
+2024-11-22 12:27:00,665 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,665 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,665 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,665 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-j9u9lho0.rules
+2024-11-22 12:27:00,764 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,764 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,764 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,765 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-lk7fvav1.rules
+2024-11-22 12:27:00,875 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,875 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,875 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,875 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-3ga264bl.rules
+2024-11-22 12:27:00,975 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:00,975 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:00,975 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:00,975 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-s_i9v2tj.rules
+2024-11-22 12:27:01,070 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,070 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,070 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,071 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-cll_p6_9.rules
+2024-11-22 12:27:01,163 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,163 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,163 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,164 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-uhvaz_cw.rules
+2024-11-22 12:27:01,261 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,261 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,261 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,261 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ay451p1i.rules
+2024-11-22 12:27:01,348 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,348 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,348 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,348 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xrrvfuo2.rules
+2024-11-22 12:27:01,432 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,433 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,433 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,433 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6sfo1v3h.rules
+2024-11-22 12:27:01,528 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,529 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,529 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,529 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-528ibvxa.rules
+2024-11-22 12:27:01,621 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,621 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,621 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,622 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-c37z269i.rules
+2024-11-22 12:27:01,714 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,714 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,714 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,714 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-e8sp8wgj.rules
+2024-11-22 12:27:01,811 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,811 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,811 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,811 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ywruhx9o.rules
+2024-11-22 12:27:01,900 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,900 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,900 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,901 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-bl1s3zib.rules
+2024-11-22 12:27:01,986 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:01,986 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:01,987 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:01,987 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4bv2fq4k.rules
+2024-11-22 12:27:02,072 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,072 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,072 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,073 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ukhmjhsw.rules
+2024-11-22 12:27:02,160 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,160 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,160 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,160 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-qg3fcrdu.rules
+2024-11-22 12:27:02,250 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,250 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,250 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,251 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-5kinoqq8.rules
+2024-11-22 12:27:02,340 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,340 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,340 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,340 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-39x3xtye.rules
+2024-11-22 12:27:02,426 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,426 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,426 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,427 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-si330hy7.rules
+2024-11-22 12:27:02,515 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,515 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,515 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,515 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gvupdbiw.rules
+2024-11-22 12:27:02,614 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,614 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,614 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,615 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-c4g0m8it.rules
+2024-11-22 12:27:02,712 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,712 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,712 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,713 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jmpa91as.rules
+2024-11-22 12:27:02,804 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,804 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,804 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,805 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-euuzjaxa.rules
+2024-11-22 12:27:02,902 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:02,902 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:02,902 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:02,903 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-w20ooyt9.rules
+2024-11-22 12:27:02,999 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,000 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,000 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,000 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xs9e0dwo.rules
+2024-11-22 12:27:03,090 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,090 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,090 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,091 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-20ryot0y.rules
+2024-11-22 12:27:03,177 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,178 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,178 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,178 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xo2mco9_.rules
+2024-11-22 12:27:03,263 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,263 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,263 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,264 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-5md7jzlo.rules
+2024-11-22 12:27:03,352 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,352 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,352 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,353 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-pkn3_9oi.rules
+2024-11-22 12:27:03,442 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,442 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,442 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,442 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-h1gmra87.rules
+2024-11-22 12:27:03,534 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,534 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,534 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,534 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-bjvearh5.rules
+2024-11-22 12:27:03,625 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,625 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,625 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,625 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jzsnk1eg.rules
+2024-11-22 12:27:03,719 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,719 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,719 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,719 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ak1sx9gf.rules
+2024-11-22 12:27:03,818 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,819 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,819 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,819 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-fqbq50qv.rules
+2024-11-22 12:27:03,911 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:03,911 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:03,911 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:03,911 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ol4sl4p7.rules
+2024-11-22 12:27:04,009 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,010 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,010 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,010 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9aits57h.rules
+2024-11-22 12:27:04,101 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,101 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,101 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,102 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9wzk9487.rules
+2024-11-22 12:27:04,186 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,187 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,187 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,187 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-qch5bgnc.rules
+2024-11-22 12:27:04,276 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,276 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,276 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,277 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-t99kvorj.rules
+2024-11-22 12:27:04,369 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,369 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,369 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,370 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6d4w3in8.rules
+2024-11-22 12:27:04,459 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,459 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,459 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,460 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zmtg2rn8.rules
+2024-11-22 12:27:04,547 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,547 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,547 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,548 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9gjjiv5c.rules
+2024-11-22 12:27:04,641 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,641 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,641 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,642 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-1w4f_oid.rules
+2024-11-22 12:27:04,735 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,735 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,736 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,736 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-aqw3jmdc.rules
+2024-11-22 12:27:04,825 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,825 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,825 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,826 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zn2rcql3.rules
+2024-11-22 12:27:04,917 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:04,917 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:04,917 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:04,917 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-sv6xujjd.rules
+2024-11-22 12:27:05,006 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,006 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,006 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,007 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-nb856eo1.rules
+2024-11-22 12:27:05,098 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,099 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,099 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,099 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-osbxotwi.rules
+2024-11-22 12:27:05,187 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,187 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,187 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,187 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-cpke9w6t.rules
+2024-11-22 12:27:05,271 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,271 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,271 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,272 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-i63jjczy.rules
+2024-11-22 12:27:05,361 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,361 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,362 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,362 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rh3wrm24.rules
+2024-11-22 12:27:05,448 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,448 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,448 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,449 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6_sdqvib.rules
+2024-11-22 12:27:05,547 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,547 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,548 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,548 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-iny70uxf.rules
+2024-11-22 12:27:05,639 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,639 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,639 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,640 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7ttnagbu.rules
+2024-11-22 12:27:05,724 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,724 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,724 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,724 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-e96qtfct.rules
+2024-11-22 12:27:05,811 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,811 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,811 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,811 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8t3osscf.rules
+2024-11-22 12:27:05,905 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:05,905 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:05,905 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:05,906 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-w5la2c7s.rules
+2024-11-22 12:27:06,005 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,005 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,005 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,006 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7iil7fug.rules
+2024-11-22 12:27:06,105 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,106 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,106 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,106 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-e4oxhahj.rules
+2024-11-22 12:27:06,197 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,197 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,197 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,198 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xw9tdra2.rules
+2024-11-22 12:27:06,285 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,285 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,285 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,286 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-nkow7yga.rules
+2024-11-22 12:27:06,372 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,372 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,372 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,373 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6xceufhd.rules
+2024-11-22 12:27:06,457 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,457 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,457 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,458 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rgqjtvbw.rules
+2024-11-22 12:27:06,546 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,546 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,546 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,547 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-suo4qfth.rules
+2024-11-22 12:27:06,639 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,640 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,640 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,640 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-i403n3l3.rules
+2024-11-22 12:27:06,730 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,730 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,730 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,731 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ykph_gls.rules
+2024-11-22 12:27:06,821 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,821 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,821 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,822 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-sfb54i1f.rules
+2024-11-22 12:27:06,912 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:06,912 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:06,912 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:06,913 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-u2zrqium.rules
+2024-11-22 12:27:07,002 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,002 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,002 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,002 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-iugnl1zm.rules
+2024-11-22 12:27:07,092 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,092 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,092 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,092 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-imvxevcj.rules
+2024-11-22 12:27:07,177 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,177 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,177 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,177 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-011zmv9f.rules
+2024-11-22 12:27:07,266 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,266 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,266 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,267 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-syfmsgjv.rules
+2024-11-22 12:27:07,355 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,355 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,355 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,356 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-v10qcle1.rules
+2024-11-22 12:27:07,446 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,446 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,446 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,447 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-eyrocqcw.rules
+2024-11-22 12:27:07,543 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,543 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,543 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,545 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dg2yjby4.rules
+2024-11-22 12:27:07,646 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,646 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,646 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,647 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-2nsqv3m_.rules
+2024-11-22 12:27:07,738 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,738 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,738 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,739 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8hcqe3_7.rules
+2024-11-22 12:27:07,826 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,826 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,826 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,827 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-g79wj3lx.rules
+2024-11-22 12:27:07,918 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:07,918 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:07,918 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:07,918 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-db52ehjy.rules
+2024-11-22 12:27:08,006 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,006 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,006 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,007 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-5fyjfg3u.rules
+2024-11-22 12:27:08,098 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,099 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,099 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,099 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-lrvpm9ch.rules
+2024-11-22 12:27:08,198 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,198 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,198 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,198 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-kbnu44yt.rules
+2024-11-22 12:27:08,294 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,295 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,295 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,295 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-h1yomiri.rules
+2024-11-22 12:27:08,382 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,382 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,382 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,383 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-paw6zo1c.rules
+2024-11-22 12:27:08,481 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,481 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,481 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,482 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rhefoz8v.rules
+2024-11-22 12:27:08,569 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,569 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,569 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,569 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-g60v687p.rules
+2024-11-22 12:27:08,660 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,660 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,660 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,661 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9wflr__4.rules
+2024-11-22 12:27:08,750 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,750 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,750 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,751 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-c6pyryc6.rules
+2024-11-22 12:27:08,838 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,838 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,838 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,839 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zntsdv9g.rules
+2024-11-22 12:27:08,926 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:08,926 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:08,926 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:08,926 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8ma04c4x.rules
+2024-11-22 12:27:09,014 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,014 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,014 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,015 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-9bzlb39x.rules
+2024-11-22 12:27:09,108 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,108 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,108 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,109 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4lme6qqv.rules
+2024-11-22 12:27:09,205 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,206 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,206 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,206 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-98hgyu7h.rules
+2024-11-22 12:27:09,300 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,300 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,300 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,301 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-k4r__1aj.rules
+2024-11-22 12:27:09,391 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,391 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,391 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,392 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-a88t8n7c.rules
+2024-11-22 12:27:09,479 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,479 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,479 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,480 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4_dg0pt2.rules
+2024-11-22 12:27:09,574 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,574 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,574 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,574 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ld4lj77v.rules
+2024-11-22 12:27:09,663 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,663 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,663 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,663 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-pjpybv2t.rules
+2024-11-22 12:27:09,753 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,753 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,753 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,754 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-bvfymewf.rules
+2024-11-22 12:27:09,845 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,845 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,845 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,845 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0sqair45.rules
+2024-11-22 12:27:09,933 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:09,933 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:09,933 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:09,933 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-pybqysad.rules
+2024-11-22 12:27:10,026 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,026 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,026 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,027 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gqh2bygl.rules
+2024-11-22 12:27:10,127 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,127 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,127 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,127 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8hjwdq3m.rules
+2024-11-22 12:27:10,212 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,212 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,212 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,213 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zobcw25c.rules
+2024-11-22 12:27:10,308 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,308 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,308 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,308 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-w1gncgut.rules
+2024-11-22 12:27:10,399 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,399 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,399 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,400 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8exicrra.rules
+2024-11-22 12:27:10,489 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,490 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,490 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,490 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-09x3h8se.rules
+2024-11-22 12:27:10,579 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,579 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,579 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,579 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-c6t2way4.rules
+2024-11-22 12:27:10,670 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,670 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,670 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,671 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-vd5npet9.rules
+2024-11-22 12:27:10,760 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,760 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,760 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,761 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-cry4j6da.rules
+2024-11-22 12:27:10,844 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,844 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,844 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,845 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gz3rm1p1.rules
+2024-11-22 12:27:10,930 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:10,930 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:10,930 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:10,931 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-3du6vak8.rules
+2024-11-22 12:27:11,019 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,019 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,020 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,020 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-_2u1je9n.rules
+2024-11-22 12:27:11,118 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,118 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,118 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,119 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-iqpket9v.rules
+2024-11-22 12:27:11,211 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,211 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,211 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,212 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-nt7dbfm9.rules
+2024-11-22 12:27:11,313 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,313 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,313 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,314 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-emauorb5.rules
+2024-11-22 12:27:11,404 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,404 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,404 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,404 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-w00q3kcd.rules
+2024-11-22 12:27:11,493 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,493 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,493 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,494 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dvnu02sj.rules
+2024-11-22 12:27:11,581 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,581 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,581 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,581 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ztjkcuc1.rules
+2024-11-22 12:27:11,665 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,666 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,666 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,666 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7azvihl0.rules
+2024-11-22 12:27:11,753 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,753 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,753 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,753 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jhhe6edc.rules
+2024-11-22 12:27:11,841 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,841 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,841 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,842 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-99uhbp9b.rules
+2024-11-22 12:27:11,938 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:11,939 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:11,939 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:11,939 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0_yqlo9d.rules
+2024-11-22 12:27:12,028 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,029 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,029 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,030 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-pyse0a70.rules
+2024-11-22 12:27:12,134 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,134 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,134 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,135 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ugjpf6xx.rules
+2024-11-22 12:27:12,237 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,237 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,237 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,237 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-yfhxhw1p.rules
+2024-11-22 12:27:12,327 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,327 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,327 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,328 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-3d8zpobx.rules
+2024-11-22 12:27:12,419 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,419 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,419 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,419 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gbzlfgou.rules
+2024-11-22 12:27:12,512 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,512 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,512 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,513 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-3e3vtjb5.rules
+2024-11-22 12:27:12,603 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,603 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,603 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,603 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ux5ou1t8.rules
+2024-11-22 12:27:12,692 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,692 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,692 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,693 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-n60kxdqg.rules
+2024-11-22 12:27:12,787 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,787 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,787 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,788 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-c1iza1yp.rules
+2024-11-22 12:27:12,881 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,881 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,881 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,882 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ox6bunxe.rules
+2024-11-22 12:27:12,983 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:12,983 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:12,983 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:12,984 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7jkmc1gd.rules
+2024-11-22 12:27:13,071 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,072 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,072 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,072 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8334frfy.rules
+2024-11-22 12:27:13,160 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,160 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,160 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,161 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-lynwyjhd.rules
+2024-11-22 12:27:13,272 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,272 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,273 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,273 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gosrnga3.rules
+2024-11-22 12:27:13,364 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,364 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,364 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,364 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-x5m0e3i4.rules
+2024-11-22 12:27:13,460 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,461 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,461 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,461 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6tdgnc15.rules
+2024-11-22 12:27:13,565 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,565 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,565 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,565 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-dy5wkgyf.rules
+2024-11-22 12:27:13,660 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,660 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,660 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,660 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-uma57vj_.rules
+2024-11-22 12:27:13,750 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,751 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,751 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,751 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-5_7ze320.rules
+2024-11-22 12:27:13,847 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,847 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,847 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,848 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-bj6wnr7s.rules
+2024-11-22 12:27:13,949 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:13,950 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:13,950 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:13,950 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7l6rew14.rules
+2024-11-22 12:27:14,039 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,039 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,039 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,040 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-hw8vnw9b.rules
+2024-11-22 12:27:14,137 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,137 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,137 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,138 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-rg7r5amj.rules
+2024-11-22 12:27:14,233 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,233 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,233 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,234 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ua1v52lk.rules
+2024-11-22 12:27:14,340 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,341 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,341 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,341 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4d7bccm4.rules
+2024-11-22 12:27:14,443 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,443 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,443 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,443 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-6_k6p2vj.rules
+2024-11-22 12:27:14,531 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,531 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,531 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,532 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-zu3hof73.rules
+2024-11-22 12:27:14,620 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,620 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,620 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,621 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-xe3tsivb.rules
+2024-11-22 12:27:14,706 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,706 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,706 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,707 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-7d5fpxn1.rules
+2024-11-22 12:27:14,792 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,792 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,792 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,793 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-nnatgo07.rules
+2024-11-22 12:27:14,880 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,880 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,880 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,881 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-n7g7751m.rules
+2024-11-22 12:27:14,967 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:14,967 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:14,967 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:14,967 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-uequ9utd.rules
+2024-11-22 12:27:15,055 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,055 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,056 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,056 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-h1woe6ov.rules
+2024-11-22 12:27:15,146 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,147 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,147 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,147 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-8xf2a9bf.rules
+2024-11-22 12:27:15,254 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,254 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,254 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,255 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-wwtxvu0a.rules
+2024-11-22 12:27:15,341 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,341 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,341 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,342 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-sy4jai6d.rules
+2024-11-22 12:27:15,433 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,434 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,434 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,434 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-68f2898s.rules
+2024-11-22 12:27:15,522 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,522 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,522 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,523 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-aj3q1mla.rules
+2024-11-22 12:27:15,623 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,623 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,623 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,624 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-wfg2zbff.rules
+2024-11-22 12:27:15,728 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,728 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,728 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,729 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-2qi98ety.rules
+2024-11-22 12:27:15,817 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,817 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,817 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,818 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-spkp18jy.rules
+2024-11-22 12:27:15,907 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,907 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,907 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,907 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-w8ub6juf.rules
+2024-11-22 12:27:15,993 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:15,993 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:15,993 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:15,993 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-m866hu_p.rules
+2024-11-22 12:27:16,080 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,080 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,080 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,080 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-5irojeqf.rules
+2024-11-22 12:27:16,170 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,171 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,171 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,171 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-gb_hv6lr.rules
+2024-11-22 12:27:16,259 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,259 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,259 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,260 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-l1uoh8b9.rules
+2024-11-22 12:27:16,344 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,344 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,344 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,345 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0g49zzxg.rules
+2024-11-22 12:27:16,435 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,435 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,435 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,435 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-1i97zte9.rules
+2024-11-22 12:27:16,523 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,523 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,523 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,524 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ctg63ytf.rules
+2024-11-22 12:27:16,619 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,619 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,619 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,619 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-tcfk6kqe.rules
+2024-11-22 12:27:16,733 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,733 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,733 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,733 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-w4c2ufl5.rules
+2024-11-22 12:27:16,820 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,820 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,821 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,821 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-diz_bcd3.rules
+2024-11-22 12:27:16,909 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,909 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,909 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,909 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-0nenojwm.rules
+2024-11-22 12:27:16,993 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:16,994 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:16,994 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:16,994 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-tj48bqr0.rules
+2024-11-22 12:27:17,080 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,080 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,080 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,081 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-4abdz6rz.rules
+2024-11-22 12:27:17,166 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,166 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,166 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,167 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-m6y8siak.rules
+2024-11-22 12:27:17,261 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,261 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,262 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,262 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-o1o7tt_i.rules
+2024-11-22 12:27:17,352 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,353 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,353 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,353 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-f88l59av.rules
+2024-11-22 12:27:17,446 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,446 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,446 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,446 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-jaarhjbh.rules
+2024-11-22 12:27:17,548 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,548 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,548 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,548 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-qbeuum53.rules
+2024-11-22 12:27:17,636 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,636 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,636 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,637 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-k3ip77i5.rules
+2024-11-22 12:27:17,727 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,727 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,727 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,728 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-ewu6sy2a.rules
+2024-11-22 12:27:17,818 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,819 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,819 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,819 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-06h5_5h4.rules
+2024-11-22 12:27:17,910 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:17,910 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:17,910 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:17,911 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-wfcvke18.rules
+2024-11-22 12:27:18,005 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:18,005 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:18,005 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:18,006 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-uhuip000.rules
+2024-11-22 12:27:18,097 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:18,098 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:18,098 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:18,098 - semgrep.config_resolver - DEBUG - Saving rules to /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/semgrep-b9q1neao.rules
+2024-11-22 12:27:18,186 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2024-11-22 12:27:18,186 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2024-11-22 12:27:18,186 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2024-11-22 12:27:18,187 - semgrep.config_resolver - DEBUG - loaded 455 configs in 41.99357604980469
+2024-11-22 12:27:18,213 - semgrep.run_scan - VERBOSE - running 455 rules from 455 configs
+2024-11-22 12:27:18,213 - semgrep.run_scan - VERBOSE - No .semgrepignore found. Using default .semgrepignore rules. See the docs for the list of default ignores: https://semgrep.dev/docs/cli-usage/#ignore-files
+2024-11-22 12:27:18,217 - semgrep.run_scan - VERBOSE - Rules:
+2024-11-22 12:27:18,217 - semgrep.run_scan - VERBOSE - <SKIPPED DATA (too many entries; use --max-log-list-entries)>
+2024-11-22 12:27:18,592 - semgrep.core_runner - DEBUG - Passing whole rules directly to semgrep_core
+2024-11-22 12:27:18,637 - semgrep.core_runner - DEBUG - Running Semgrep engine with command:
+2024-11-22 12:27:18,638 - semgrep.core_runner - DEBUG - /opt/homebrew/Cellar/semgrep/1.96.0/libexec/lib/python3.13/site-packages/semgrep/bin/semgrep-core -json -rules /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/tmpmf6cjxam.json -j 2 -targets /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/tmpifalmxzu -timeout 5 -timeout_threshold 3 -max_memory 0 -fast
+2024-11-22 12:27:25,537 - semgrep.core_runner - DEBUG - --- semgrep-core stderr ---
+[00.06][[34mINFO[0m]: Executed as: /opt/homebrew/Cellar/semgrep/1.96.0/libexec/lib/python3.13/site-packages/semgrep/bin/semgrep-core -json -rules /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/tmpmf6cjxam.json -j 2 -targets /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/tmpifalmxzu -timeout 5 -timeout_threshold 3 -max_memory 0 -fast
+[00.06][[34mINFO[0m]: Version: 1.96.0
+[00.06][[34mINFO[0m]: Parsing rules in /var/folders/gh/d4k3jsj52435pnr4rkttl5th0000gp/T/tmpmf6cjxam.json
+[00.28][[33mWARNING[0m]: Skipping unknown field 'metavariable-pattern' in rule "vue-xss-dom-manipulation"
+[0m[00.29][[33mWARNING[0m]: unknown rule option: taintUnifyMvars
+[0m[00.29][[33mWARNING[0m]: Skipping unknown field 'metavariable-regex' in rule "python_exec_rule-linux-command-wildcard-injection"
+[0m[00.30][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "vue-xss-unsafe-marked-usage"
+[0m[00.30][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "angular-detect-trust-as-css-method"
+[0m[00.30][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "angular-detect-trust-as-js-method"
+[0m[00.30][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "angular-detect-trust-as-url-method"
+[0m[00.30][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "angular-detect-trust-as-html-method"
+[0m[00.31][[33mWARNING[0m]: unknown rule option: taintUnifyMvars
+[0m[00.32][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "java-deprecated-ciphers"
+[0m[00.32][[33mWARNING[0m]: unknown rule option: taintUnifyMvars
+[0m[00.32][[33mWARNING[0m]: unknown rule option: taintAssumeSafeBooleans
+[0m[00.32][[33mWARNING[0m]: unknown rule option: taintAssumeSafeNumbers
+[0m[00.32][[33mWARNING[0m]: unknown rule option: symbolicPropagation
+[0m[00.33][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "java-cbc-padding"
+[0m[00.33][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "angular-detect-trust-as-method"
+[0m[00.33][[33mWARNING[0m]: unknown rule option: taintAssumeSafeBooleans
+[0m[00.33][[33mWARNING[0m]: unknown rule option: taintAssumeSafeNumbers
+[0m[00.35][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "java-use-of-weak-rsa-key"
+[0m[00.35][[33mWARNING[0m]: unknown rule option: taintUnifyMvars
+[0m[00.35][[33mWARNING[0m]: unknown rule option: constantPropagation
+[0m[00.35][[33mWARNING[0m]: unknown rule option: taintUnifyMvars
+[0m[00.35][[33mWARNING[0m]: unknown rule option: symbolicPropagation
+[0m[00.36][[33mWARNING[0m]: unknown rule option: symbolicPropagation
+[0m[00.36][[33mWARNING[0m]: unknown rule option: symbolicPropagation
+[0m[00.36][[33mWARNING[0m]: Skipping unknown field 'pattern-not' in rule "angular-detect-trust-as-resourceurl-method"
+[0m[00.36][[33mWARNING[0m]: unknown rule option: taintUnifyMvars
+[0m[00.37][[33mWARNING[0m]: unknown rule option: symbolicPropagation
+[0m[00.37][[33mWARNING[0m]: unknown rule option: taintUnifyMvars
+[0m[00.38][[34mINFO[0m]: scan: processing 719 files (skipping 0), with 441 rules (skipping 0 )
+Warning: PARSING: two or more data types; value = (0, (0, 0, (Tag9 ((0, 0, (("__fastcall", (("__fastcall", (1797, 81, 4, "/Users/shiva/GitHubEnterprise/endor-sast-vuln-samples-repo/samples/3p/0xdea/c/insecure-api-scanf-etc.c"))))))))), 0, 0)
+Warning: PARSING: two or more data types; value = (0, (0, 0, (Tag9 ((0, 0, (("Packet", (("Packet", (1061, 59, 4, "/Users/shiva/GitHubEnterprise/endor-sast-vuln-samples-repo/samples/3p/0xdea/c/double-free.c"))))))))), 0, 0)
+--- end semgrep-core stderr ---
+2024-11-22 12:27:29,919 - semgrep.core_runner - DEBUG - semgrep ran in 0:00:11.327007 on 361 files
+2024-11-22 12:27:29,920 - semgrep.core_runner - DEBUG - findings summary: 2007 warning, 981 error, 413 info
+2024-11-22 12:27:29,939 - semgrep.app.auth - DEBUG - Getting API token from settings file
+2024-11-22 12:27:29,939 - semgrep.app.auth - DEBUG - No API token found in settings file
+2024-11-22 12:27:30,084 - semgrep.output - VERBOSE - 
+========================================
+Files skipped:
+========================================
+
+  Always skipped by Semgrep:
+
+   • <none>
+
+  Skipped by .gitignore:
+  (Disable by passing --no-git-ignore)
+
+   • <all files not listed by `git ls-files` were skipped>
+
+  Skipped by .semgrepignore:
+  - https://semgrep.dev/docs/ignoring-files-folders-code/#understand-semgrep-defaults
+
+   • <none>
+
+  Skipped by --include patterns:
+
+   • <none>
+
+  Skipped by --exclude patterns:
+
+   • <none>
+
+  Files skipped due to insufficient read permissions:
+
+   • <none>
+
+  Skipped by limiting to files smaller than 1000000 bytes:
+  (Adjust with the --max-target-bytes flag)
+
+   • <none>
+
+  Partially analyzed due to parsing or internal Semgrep errors
+
+   • <none>
+
+2024-11-22 12:27:30,085 - semgrep.output - INFO - Some files were skipped or only partially analyzed.
+  Scan was limited to files tracked by git.
+
+Ran 441 rules on 361 files: 3401 findings.
+2024-11-22 12:27:30,085 - semgrep.metrics - VERBOSE - Not sending pseudonymous metrics since metrics are configured to AUTO and registry usage is False

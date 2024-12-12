@@ -1,0 +1,15 @@
+
+{
+  "name": "my-rule",
+  // ruleid: gen-openai-apikey
+  "api_key": "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",
+  "prompt": "Write a paragraph about dogs.",
+  "model": "text-davinci-002",
+  "temperature": 0.5,
+  "max_tokens": 100,
+  // okruleid: gen-openai-apikey    
+  //"OPENAI_API_KEY":"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",
+  // okruleid: gen-openai-apikey
+  "OPENAI_API_KEY":"sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+}
